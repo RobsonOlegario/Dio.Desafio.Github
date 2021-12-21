@@ -1,0 +1,3 @@
+link para download do git https://git-scm.com/
+o git basch é um terminal estendido para otimizar o uso do git.
+
